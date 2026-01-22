@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=0:1e3c72,100:2a5298&fontColor=FFFFFF" width="100%" />
 </div>
 
-# Hi, I’m Iker 👋
+# 👋 Hi, I’m Iker 
 I’m a junior web developer who loves turning ideas into functional, well-structured web applications.  
 I’m always looking for new challenges to keep learning and improving.
 
